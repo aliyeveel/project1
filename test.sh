@@ -9,3 +9,4 @@ do
 done
 lsblk
 #########################
+cat /etc/os-release
